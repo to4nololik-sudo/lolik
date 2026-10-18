@@ -1,3 +1,7 @@
 Ticket 1: Kerim legt den Ordner ideen/ mit spiel-1.txt an
 Chef: Ticket 2 wird gepruefft
+<<<<<<< HEAD
 Kerim: Ticket 3 - Aufgabenliste ueberarbeitet
+=======
+Chef: Ticket 3 vom Chef 
+>>>>>>> origin
