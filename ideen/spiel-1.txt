@@ -1,1 +1,3 @@
-das spiel ist sehr geil
+Name: Lava Parkour
+Genre: Obby
+Beschreibung: Der Spieler springt ueber Lava und sammelt Muenzen.
